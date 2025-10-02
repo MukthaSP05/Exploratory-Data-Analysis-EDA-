@@ -52,7 +52,7 @@ The dataset used is the **Titanic dataset**, which contains information about pa
 Task5_Titanic_EDA/
 │
 ├── Titanic_EDA.ipynb # Jupyter Notebook with code and analysis
-├── train.csv # Titanic dataset 
+├── titanic.csv # Titanic dataset 
 ├── README.md # This README file
 
 ## References
