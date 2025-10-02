@@ -58,3 +58,5 @@ Task5_Titanic_EDA/
 ## References
 - Titanic Dataset from [Kaggle](https://www.kaggle.com/c/titanic)
 - Python Libraries: pandas, seaborn, matplotlib, numpy
+
+Note : The python script is attached along with the output screenshots.
